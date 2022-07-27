@@ -2,9 +2,9 @@
 Basic_Ecommerce_Web
 
 trang home 
-<img width="960" alt="2022-07-27 (8)" src="https://user-images.githubusercontent.com/69359047/181225965-53be0a0e-34d0-4353-9d69-85f15149055c.png">
+<img width="960" alt="2022-07-27 (9)" src="https://user-images.githubusercontent.com/69359047/181228256-0d7aac3b-7763-4bb8-90df-50030176c0f6.png">
 
-trang đăng nhập 
+trang đăng nhập
 <img width="960" alt="2022-07-27 (13)" src="https://user-images.githubusercontent.com/69359047/181226075-e7ef140f-60ce-4ee6-b28f-a61e90735369.png">
 
 trang confirm password bằng email  
